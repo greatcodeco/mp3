@@ -11,6 +11,7 @@ class Downloader:
 
     def getOptions(self):
         return {
+            'outtmpl': 'mp3_files/ilteris.mp3',
             'format': 'bestaudio/best',
             'postprocessors': [{
                 'key': 'FFmpegExtractAudio',
