@@ -3,89 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7ae7c480-f46d-4d86-8662-777bf79f8637" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/css/creative.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/creative.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/css/creative.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/creative.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/gulpfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/img/avatar.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/avatar.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/img/download.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/download.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/img/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/header.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/img/headphones.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/headphones.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/img/music.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/music.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/img/portfolio/fullsize/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/portfolio/fullsize/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/img/portfolio/fullsize/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/portfolio/fullsize/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/img/portfolio/fullsize/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/portfolio/fullsize/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/img/portfolio/fullsize/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/portfolio/fullsize/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/img/portfolio/fullsize/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/portfolio/fullsize/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/img/portfolio/fullsize/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/portfolio/fullsize/6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/img/portfolio/thumbnails/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/portfolio/thumbnails/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/img/portfolio/thumbnails/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/portfolio/thumbnails/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/img/portfolio/thumbnails/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/portfolio/thumbnails/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/img/portfolio/thumbnails/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/portfolio/thumbnails/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/img/portfolio/thumbnails/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/portfolio/thumbnails/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/img/portfolio/thumbnails/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/portfolio/thumbnails/6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/img/security.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/security.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/img/shield.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/shield.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/img/user.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/user.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/creative.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/creative.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/js/creative.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/creative.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/js/creative.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/creative.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/less/creative.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/less/creative.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/less/mixins.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/less/mixins.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/less/variables.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/less/variables.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/static/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/less/animated.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/less/animated.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/less/bordered-pulled.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/less/bordered-pulled.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/less/core.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/less/core.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/less/fixed-width.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/less/fixed-width.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/less/font-awesome.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/less/font-awesome.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/less/icons.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/less/icons.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/less/larger.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/less/larger.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/less/list.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/less/list.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/less/mixins.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/less/mixins.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/less/path.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/less/path.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/less/rotated-flipped.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/less/rotated-flipped.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/less/screen-reader.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/less/screen-reader.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/less/stacked.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/less/stacked.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/less/variables.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/less/variables.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/scss/_animated.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/scss/_animated.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/scss/_bordered-pulled.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/scss/_core.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/scss/_core.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/scss/_fixed-width.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/scss/_fixed-width.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/scss/_icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/scss/_icons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/scss/_larger.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/scss/_larger.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/scss/_list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/scss/_list.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/scss/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/scss/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/scss/_path.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/scss/_path.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/scss/_rotated-flipped.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/scss/_screen-reader.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/scss/_screen-reader.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/scss/_stacked.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/scss/_stacked.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/scss/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/font-awesome/scss/font-awesome.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/font-awesome/scss/font-awesome.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/jquery/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/jquery/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/jquery/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/magnific-popup/jquery.magnific-popup.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/magnific-popup/jquery.magnific-popup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/magnific-popup/jquery.magnific-popup.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/magnific-popup/jquery.magnific-popup.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/magnific-popup/magnific-popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/magnific-popup/magnific-popup.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/scrollreveal/scrollreveal.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/scrollreveal/scrollreveal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vendor/scrollreveal/scrollreveal.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/vendor/scrollreveal/scrollreveal.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/wsgi.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -113,12 +32,6 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="64" />
-    <option name="y" value="27" />
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
-  </component>
   <component name="ProjectId" id="1OSyjPHXbQaUKLPTdXGmYGtPkpn" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -131,9 +44,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/static/vendor/jquery" />
       <recent name="$PROJECT_DIR$/static" />
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/templates/static" />
     </key>
   </component>
@@ -192,7 +105,8 @@
       <workItem from="1563309944914" duration="92000" />
       <workItem from="1563315541167" duration="5607000" />
       <workItem from="1563706792712" duration="16000" />
-      <workItem from="1563985429034" duration="2878000" />
+      <workItem from="1563985429034" duration="3233000" />
+      <workItem from="1563989457861" duration="1526000" />
     </task>
     <servers />
   </component>
@@ -204,7 +118,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

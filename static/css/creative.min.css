@@ -983,3 +983,14 @@ input::-webkit-input-placeholder {
 }
 
 */
+#mainNav{
+    background-color: black;
+}
+
+#mainNav a{
+    color: lightgray;
+}
+
+#mainNav a:hover{
+    color: white;
+}
