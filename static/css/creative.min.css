@@ -734,7 +734,7 @@ iframe {
 .img {
     width: 20%;
     float: left;
-    background-image: url(../img/photo-1531315630201-bb15abeb1653.jpeg);
+    background-image: url(../static/img/photo-1531315630201-bb15abeb1653.jpeg);
     height: 100vh;
 }
 
