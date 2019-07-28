@@ -4,9 +4,11 @@ from forms import inputForm
 import os
 import downloader
 
-app = Flask(__name__)
-app.config['SECRET_KEY'] = 'linuxdegilgnulinux'
 
+app = Flask(__name__)
+
+from config import Config
+app.config.from_object(Config) #or import ProductionConfig
 
 @app.route('/')
 def home():
@@ -30,7 +32,7 @@ def start():
         if music:
             if music[0] == 'ilteris.mp3':
                 os.remove('mp3_files/ilteris.mp3')
-        dwnldr = downloader.Downloader()
+        dwnldr = downloader.Downloader(app.config['DOWNLOAD_FOLDER'])
         youtube_url = request.form.get('youtube_url')
         dwnldr.startDownloading(youtube_url)
         file_name = os.listdir('mp3_files/')
