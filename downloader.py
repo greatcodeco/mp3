@@ -13,10 +13,10 @@ class Downloader:
         return {
             'outtmpl': 'mp3_files/ilteris.mp3',
             'format': 'bestaudio/best',
+            'noplaylist': True,
             'postprocessors': [{
                 'key': 'FFmpegExtractAudio',
                 'preferredcodec': 'mp3',
-                'preferredquality': '192',
             }],
             'progress_hooks': [self.hook],
         }
